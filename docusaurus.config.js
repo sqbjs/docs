@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/logoDark.svg',
 
   // Set the production url of your site here
-  url: 'https://sqbjs.github.io',
+  url: 'https://sqbjs.github.io/docs/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
